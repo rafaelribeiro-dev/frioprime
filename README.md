@@ -1,5 +1,5 @@
-# Projeto-FrioPrime2
+# FrioPrime
 
 
-- Projeto Feito para a empresa de manutenção de ar condicionado.
-- Primeira versãw
+- First version for web project 
+- Project developed for the air conditioning maintenance company
